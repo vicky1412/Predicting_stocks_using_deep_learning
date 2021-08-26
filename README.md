@@ -10,7 +10,7 @@ layers - keras(dense,LSTM(long short term memory))
 accuracy = 70% - 78%
 
 can easily implement the model in realtime
-under models folder you can find codes the models.
+under models repository you can find codes the models.
 under gdrive folder can find link the trained models.
 
 
