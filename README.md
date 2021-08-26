@@ -1,14 +1,16 @@
 # Predicting_stocks_using_deep_learning
 
-I developed a model to predict the stocks using deep learning.
 
-Preparing the data - getting the data from yayoo finance.
+Preparing the data - getting the data from yayoo finance and alpha vantage.
 
-model - Time Series Sequantial 
+model - Time Series Sequantial ,randomforestregression and randomforestclassification.
 layers - keras(dense,LSTM(long short term memory))
 
-accuracy = 82%
+accuracy = 70% - 78%
 
-I will imporve this as much as possible 
+can easily implement the model in realtime
+under models folder you can find codes the models.
+under gdrive folder can find link the trained models.
+
 
 thank you.
